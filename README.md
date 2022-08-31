@@ -2,7 +2,7 @@
 
  Atividades desenvolvidas durante o Curso de Cientista de Dados na EBAC.
 
- <details><summary>PROGRAMA DO CURSO</summary>
+ <details><summary> 👩‍🎓 PROGRAMA DO CURSO</summary>
 
 <p>
 
@@ -23,7 +23,7 @@
 </details>
   
 
- <details><summary>STATUS DOS MÓDULOS</summary>
+ <details><summary> ✅ STATUS DOS MÓDULOS</summary>
 
 <p>
 
