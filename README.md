@@ -74,5 +74,11 @@
 - [ ] Descritiva IV - Visualização de dados categorizados
 - [ ] Regressão Logística II
 - [ ] Streamlit VI e Pycaret
-
-
+- [ ] SQL: Base de dados & Linguagem
+- [ ] SQL: Trabalhando com Tabelas
+- [ ] SQL: Selecionando & Ordenando
+- [ ] SQL: Filtrando & Seleção Condicional
+- [ ] SQL: Agregações
+- [ ] SQL: Trabalhando com Múltiplas Tabelas
+- [ ] SQL: Avançado
+- [ ] SQL: Projeto Final
